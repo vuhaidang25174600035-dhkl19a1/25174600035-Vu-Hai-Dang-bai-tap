@@ -1,1 +1,5 @@
-Nội dung bạn muốn thêm vào text_branch_4.txt
+Học phần: Tin cơ sở cho ngành KHDL
+
+Giảng viên: Lê Hằng Anh
+
+Cras ac mi nec nisi porta ultrices sed non ante.
